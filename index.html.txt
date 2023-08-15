@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+<section class="background">
+  <br>
+<body>
+    <header>
+        <h1>16 East 84th Street, Unit 3-AB</h1>
+        <p>New York, NY 10028</p>
+    </header>
+<link rel="stylesheet" href="2.css">
+</head>
+ <br>        
+<br>
+<body>
+  
+      <div class="images">
+            
+              
+             
+        <img src="https://imgur.com/snuIwVI" alt="Image 1">
+            <img src="https://imgur.com/f0ZBnmm" alt="Image 2">
+            <img src="https://imgur.com/Mq6c9cr" alt="Image 3">
+            <img src="https://imgur.com/gbTELPD" alt="Image 4">
+          <img src="https://imgur.com/Gy1qCuY" alt="Image 5">
+            <img src="https://imgur.com/rzeIQ7O" alt="Image 6">
+          <img src="https://imgur.com/q7tsizo" alt="Image 7">
+            <img src="https://imgur.com/b50KNpb" alt="Image 8">
+          <img src="https://imgur.com/W4mFUk3" alt="Image 9">
+            <img src="https://imgur.com/lxt51gk" alt="Image 10">
+            <img src="https://imgur.com/9yWIInH" alt="Image 11">
+            <img src="https://imgur.com/fyvEvvs" alt="Image 12">
+          <img src="https://imgur.com/fTHYqGr" alt="Image 13">
+            <img src="https://imgur.com/GIWyV0J" alt="Image 14">
+          <img src="https://imgur.com/rbnaaI4" alt="Image 15">
+                
+            </div>
+  </section>
+</body>
+</html>
